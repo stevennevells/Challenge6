@@ -1,4 +1,4 @@
-# Weather Dashboard 'test'
+# Weather Dashboard
 
 ## Website Description
 Website is designed to help user see the weather for multiple cities so they can plan their trip accordingly.
